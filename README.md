@@ -19,7 +19,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+InstaScriptViewTool::Renderer.copyright 'Anna Dimitrova', 'All rights reserved'
+```
 
 ## Development
 
